@@ -1,12 +1,14 @@
-## About me
+## about me
 - computer engineering student @ Mapúa
 - ~~i use arch btw~~
 - niri enjoyer
 
-## Socials
-- Discord: `@zeeebow`
+## website
+<a href="https://zeeebo.vercel.app">
+  zeeebo.vercel.app
+</a>
 
-## Tech Stack
+## tech stack
 <div align="center">
   
 ### Languages

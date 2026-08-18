@@ -2,11 +2,7 @@
 - computer engineering student @ Mapúa
 - ~~i use arch btw~~
 - niri enjoyer
-
-## website
-<a href="https://zeeebo.vercel.app">
-  zeeebo.vercel.app
-</a>
+- more about me <a href="https://zeeebo.vercel.app">here</a>
 
 ## tech stack
 <div align="center">

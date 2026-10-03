@@ -55,13 +55,6 @@
 
 </div>
 
-## certifications
-
-| Certification | Year |
-| --- | ---: |
-| Google Cloud Associate Cloud Engineer | 2026 |
-| Google Foundations of Cybersecurity | 2026 |
-
 ## currently learning
 
 - network fundamentals

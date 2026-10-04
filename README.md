@@ -18,7 +18,6 @@
 - aspiring cloud engineer
 - building projects to understand how software and systems work
 - ~~i use arch btw~~
-- more about me <a href="https://zeeebo.vercel.app" target="_blank" rel="noopener">here</a>
 
 ## tech stack
 

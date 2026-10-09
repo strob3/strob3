@@ -16,8 +16,6 @@
 
 - computer engineering student @ mapúa
 - aspiring cloud engineer
-- building projects to understand how software and systems work
-- ~~i use arch btw~~
 
 ## tech stack
 

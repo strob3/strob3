@@ -15,7 +15,6 @@
 ## about me
 
 - computer engineering student @ mapúa
-- aspiring cloud engineer
 
 ## tech stack
 

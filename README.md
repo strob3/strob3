@@ -1,9 +1,10 @@
 <h1 align="center">strob3</h1>
 
 <div align="center">
+  <!--
   <p>
     <code>software</code> · <code>cloud</code> · <code>networking</code> · <code>devops</code>
-  </p>
+  </p>-->
 
   <p>
     <a href="mailto:yaeffiliates@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/></a>

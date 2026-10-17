@@ -13,9 +13,11 @@
   </p>
 </div>
 
+<!--
 ## about me
 
 - computer engineering student @ mapúa
+-->
 
 ## tech stack
 

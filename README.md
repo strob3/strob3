@@ -70,6 +70,6 @@
 
 <div align="center">
  
-email: <a href="mailto:yaeffiliates@gmail.com">yaeffiliates@gmail.com</a> · website: <a href="https://nigirishii.xyz">https://zeeebo.vercel.app</a> · discord: <code>@zeeebow</code> 
+email: <a href="mailto:yaeffiliates@gmail.com">yaeffiliates@gmail.com</a> · website: <a href="https://nigirishii.xyz">https://nigirishii.xyz</a> · discord: <code>@zeeebow</code> 
 </div>
 

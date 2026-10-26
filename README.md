@@ -8,7 +8,7 @@
 
   <p>
     <a href="mailto:yaeffiliates@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/></a>
-    <a href="https://zeeebo.vercel.app" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://nigirishii.xyz" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
     <a href="#contact"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   </p>
 </div>
@@ -70,6 +70,6 @@
 
 <div align="center">
  
-email: <a href="mailto:yaeffiliates@gmail.com">yaeffiliates@gmail.com</a> · website: <a href="https://zeeebo.vercel.app">https://zeeebo.vercel.app</a> · discord: <code>@zeeebow</code> 
+email: <a href="mailto:yaeffiliates@gmail.com">yaeffiliates@gmail.com</a> · website: <a href="https://nigirishii.xyz">https://zeeebo.vercel.app</a> · discord: <code>@zeeebow</code> 
 </div>
 

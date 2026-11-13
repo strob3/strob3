@@ -53,13 +53,6 @@
 
 </div>
 
-## currently learning
-
-- network fundamentals
-- AI/ML
-- cloud infrastructure/security
-- cybersecurity
-
 ## github activity
 
 <div align="center">

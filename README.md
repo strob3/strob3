@@ -17,6 +17,8 @@
 ## about me
 
 - computer engineering student @ mapúa
+- nyenye
+- nyenyeneye
 -->
 
 ## tech stack
@@ -64,6 +66,6 @@
 
 <div align="center">
  
-email: <a href="mailto:yaeffiliates@gmail.com">yaeffiliates@gmail.com</a> · website: <a href="https://nigirishii.xyz">https://nigirishii.xyz</a> · discord: <code>@zeeebow</code> 
+email: <a href="mailto:yaeffiliates@gmail.com">ian@nigirishii.xyz</a> · website: <a href="https://nigirishii.xyz">https://nigirishii.xyz</a> · discord: <code>@zeeebow</code> 
 </div>
 
